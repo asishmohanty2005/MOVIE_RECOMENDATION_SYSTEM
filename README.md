@@ -1,5 +1,8 @@
 # MovieRec — AI-Powered Movie Recommendation System
 
+![Uploading MOVIE RECOMENDATION SYSTEM.png…]()
+
+
 ## Overview
 MovieRec is a complete Level 3 Movie Recommendation System built with Python, Flask, Pandas, Scikit-learn, and SQLite. It uses TF-IDF Vectorization and Cosine Similarity to recommend movies based on genres, cast, director, plot, and keywords. It includes user authentication, favorites, watchlists, recommendation history, and an admin dashboard.
 
